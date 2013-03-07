@@ -4,9 +4,11 @@
  */
 package prgitejemplo;
 
-/**
+/*Prueba de modificación*/
+
+/*
  *
- * @author bertoa
+ * @author Pablo López Garcia
  */
 public class GitAux {
     
@@ -17,7 +19,12 @@ public class GitAux {
     public void metodoAlumno2(){
         System.out.println("metodo 2");
     }
-    
+   
+public void testGitAux(){
+// metodo rama testing
+System.out.pirntln("Metodo de testing");
+}
+ 
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
     }
