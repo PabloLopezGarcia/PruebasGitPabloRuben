@@ -29,6 +29,6 @@ System.out.pirntln("Metodo de testing");
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
         //modificaciones alumno 1
-        System.out.println("Alumno 1 inserta esta sentencia")
+        System.out.println("Alumno 1 inserta esta sentencia") // prueba de commit
     }
 }
